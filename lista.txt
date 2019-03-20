@@ -1,0 +1,29 @@
+mleko 2
+jajka 3
+chleb 4
+jabłka 5
+tofu 2
+===NALEŚNIKI
+mąka
+sól
+===SŁODKI_FARSZ
+truskawki
+cynamon
+===SŁONY_FARSZ
+ziemniaki
+cebula
+===MIESNY_JEZ
+parowki
+mieso mielone
+tatar
+szynka
+karkowka
+korniszony
+===SALATKA
+salata
+szpinak
+pomidory
+===SALATKA DRUGA
+salata
+szpinak
+pomidory
